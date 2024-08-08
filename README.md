@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadasim225&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadasim225" /> </p>
 
-- 🌱 I’m currently learning I am enhancing my skills in modern web development, secure authentication and authorization, backend development, database management, DevOps practices, UX design, and agile project management. **react,nodejs,blender,nextjs**
+- 🌱 I’m currently learning and enhancing my skills in modern web development, secure authentication and authorization, backend development, database management, DevOps practices, UX design, and agile project management. **react,nodejs,blender,nextjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammadasim225](https://github.com/Muhammadasim225)
 
