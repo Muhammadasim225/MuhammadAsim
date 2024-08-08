@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadasim225&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadasim225" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadasim225" alt="muhammadasim225" /></a> </p>
-
-- 🌱 I’m currently learning and enhancing my skills in modern web development, secure authentication and authorization, backend development, database management, DevOps practices, UX design, and agile project management. **react,nodejs,blender,nextjs**
+- 🌱 I’m currently learning I am enhancing my skills in modern web development, secure authentication and authorization, backend development, database management, DevOps practices, UX design, and agile project management. **react,nodejs,blender,nextjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammadasim225](https://github.com/Muhammadasim225)
 
-- 💬 Ask me about **react ,nodejs, javascript, mysql, java, c++, java, blender,php**
+- 💬 Ask me about **react,nodejs,javascript,mysql,java,c++,java,blender**
 
 - 📫 How to reach me **https://www.linkedin.com/in/muhammad-asim-764a8a273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
 
