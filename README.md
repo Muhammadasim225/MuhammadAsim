@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **FitVision Smart Mirror (AR Try-On Kiosk)**
 
-- 🌱 I’m currently learning **Transformers, Diffusion Models, WebRTC, Advanced React Patterns**
-
-- 🤝 I’m looking for help with **Generative AI integrations & scalable full-stack systems**
+- 🌱 I’m currently exploring AI model integration in full-stack applications, including LangChain, LangGraph, and modern AI development practices, along with DevOps workflows for scalable deployment.
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-5e57-muhammad-asims-projects-6fc73532.vercel.app/](https://portfolio-website-5e57-muhammad-asims-projects-6fc73532.vercel.app/)
 
